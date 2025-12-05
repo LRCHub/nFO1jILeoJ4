@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "stay by my side",
+  "base_artist": "FLOW GLOW",
+  "createdAt": "2025-12-05T04:29:44.848517Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Stay By My Side",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/01_Stay_By_My_Side_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Stay By My Side",
+      "artist": "Cameo",
+      "has_synced": false,
+      "path": "select/02_Stay_By_My_Side_Cameo.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "STAY BY MY SIDE",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/03_STAY_BY_MY_SIDE_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Stay by my side",
+      "artist": "倉木麻衣",
+      "has_synced": true,
+      "path": "select/04_Stay_by_my_side_倉木麻衣.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Stay by My Side",
+      "artist": "Sun",
+      "has_synced": false,
+      "path": "select/05_Stay_by_My_Side_Sun.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "STAY BY MY SIDE",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/06_STAY_BY_MY_SIDE_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Stay By My Side",
+      "artist": "Fiddler's Green",
+      "has_synced": true,
+      "path": "select/07_Stay_By_My_Side_Fiddler's_Green.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Stay by my side",
+      "artist": "倉木麻衣",
+      "has_synced": true,
+      "path": "select/08_Stay_by_my_side_倉木麻衣.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Stay by My Side",
+      "artist": "Stéphane Huguenin",
+      "has_synced": true,
+      "path": "select/09_Stay_by_My_Side_Stéphane_Huguenin.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Stay By My Side",
+      "artist": "Club 8",
+      "has_synced": true,
+      "path": "select/10_Stay_By_My_Side_Club_8.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Stay By My Side",
+      "artist": "Swinging Popsicle",
+      "has_synced": false,
+      "path": "select/11_Stay_By_My_Side_Swinging_Popsicle.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Stay By My Side",
+      "artist": "Kiwanuka Michael",
+      "has_synced": false,
+      "path": "select/12_Stay_By_My_Side_Kiwanuka_Michael.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Stay By My Side",
+      "artist": "SWINGING POPSICLE",
+      "has_synced": true,
+      "path": "select/13_Stay_By_My_Side_SWINGING_POPSICLE.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Stay By My Side",
+      "artist": "Michael Kiwanuka",
+      "has_synced": true,
+      "path": "select/14_Stay_By_My_Side_Michael_Kiwanuka.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Stay by my side",
+      "artist": "Mai Kuraki",
+      "has_synced": true,
+      "path": "select/15_Stay_by_my_side_Mai_Kuraki.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "stay by my side",
+      "artist": "FLOW GLOW",
+      "has_synced": false,
+      "path": "select/pl_01_stay_by_my_side_FLOW_GLOW.txt"
+    }
+  ]
+}
